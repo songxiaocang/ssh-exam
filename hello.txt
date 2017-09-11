@@ -1,3 +1,4 @@
 hello，git!
 I like java!
-我在 D:\temp\repository2\repository1
+I like java!
+我在 D:\temp\repository1我在 D:\temp\repository2\repository1
